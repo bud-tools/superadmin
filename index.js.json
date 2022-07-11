@@ -1,0 +1,57 @@
+{
+	"pid": 36095,
+	"date": "2022-07-10T15:26:36.901Z",
+	"port": 8000,
+	"ip": "0.0.0.0",
+	"stats": [
+		{
+			"id": null,
+			"version": {
+				"node": "v16.14.0",
+				"total": "4",
+				"build": 4064,
+				"app": "1.0.0"
+			},
+			"pid": 36095,
+			"thread": "",
+			"mode": "debug",
+			"overload": 0,
+			"date": "2022-07-10T17:49:28.103Z",
+			"textdb": {
+				"size": 0,
+				"pendingwrite": 0,
+				"pendingread": 0,
+				"duration": 0,
+				"documents": 1,
+				"reading": 0,
+				"writing": 0
+			},
+			"memory": 13.15,
+			"rm": 0,
+			"fm": 0,
+			"wm": 0,
+			"em": 0,
+			"mm": 0,
+			"om": 0,
+			"dm": 0,
+			"um": 0,
+			"pm": 0,
+			"sm": 0,
+			"cm": 0,
+			"dbrm": 0,
+			"dbwm": 0,
+			"usage": 0,
+			"requests": 4,
+			"pending": 0,
+			"external": 0,
+			"errors": 2,
+			"timeouts": 0,
+			"online": 0,
+			"uptime": 90,
+			"download": 0,
+			"upload": 0.001,
+			"lasterror": "2022-07-10T15:26:37.581Z Error: ACME.SH not found\n    at check (/Users/austinrowsell/Documents/Github/superadmin/definitions/superadmin.js:1163:10)\n    at /Users/austinrowsell/Documents/Github/superadmin/definitions/superadmin.js:1169:5\n    at ChildProcess.exithandler (node:child_process:406:5)\n    at ChildProcess.emit (node:events:520:28)\n    at maybeClose (node:internal/child_process:1092:16)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:302:5)",
+			"status": []
+		}
+	]
+}
